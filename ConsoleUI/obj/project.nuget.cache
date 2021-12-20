@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tYW8EN0KI9UxCcXfqYzWzCDBS/t9vWykVgqG52u6FlKrJLWWLWVj6I9kAM2IG+gp6EBfBdQnN32k3/AaajQJWw==",
+  "dgSpecHash": "PWQJPCpJeDCb4mX1vStN0mUc+ugbgtuiQFCI0zXUfq42HE9JXGCIAwCukntZ6xLtefy1hgpvKz64mk5WZ58TKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Barış\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Barış\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -571,11 +571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Barış\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Barış\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -592,11 +592,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Business\\Business.csproj"
+            "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Entities\\Entities.csproj"
+            "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Entities\\Entities.csproj"
             }
           }
         }

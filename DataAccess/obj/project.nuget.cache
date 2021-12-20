@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m5cAWUsGuX+jmey3xhS+++fT/jSsmhUipFV8zBtOnjX5YBo4umm0FZETTc7NyeVEpmwIuSJcwttXrtNAMdePNg==",
+  "dgSpecHash": "3g5Ykx2sFi8qATzIDy3dv6k9DEKYeJMBphOhY9u3nk9443P/Hp8QqUrbVltz/LOV2QxZUo2WHMAfi8svUpWA6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Barış\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Barış\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

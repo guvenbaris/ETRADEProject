@@ -496,11 +496,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Barış\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Barış\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -517,11 +517,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Core\\Core.csproj"
+            "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Core\\Core.csproj"
             },
-            "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Entities\\Entities.csproj"
+            "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Entities\\Entities.csproj"
             }
           }
         }

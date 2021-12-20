@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B1WqDuBVMvnCb7jxqZBHbNeTvqppjOkI/MZXuMER+rH3wwy+g67yrDnFLVrqYobq4fkwno9dJJIG34eXG0Va+Q==",
+  "dgSpecHash": "Q/qWyzjSeFIXKWkRe+LXffIdYTByjEG/QFAcuSbc/82WqTY9zQGT3B8YlUlQwjgEo63EgXaCyvNAUBrwdS2Bzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Barış\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Barış\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

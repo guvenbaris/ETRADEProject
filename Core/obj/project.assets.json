@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Barış\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Barış\\source\\repos\\ETradePorject\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Barış\\Desktop\\Network Notlar\\Projects\\ETRADEProject\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Barış\\AppData\\Roaming\\NuGet\\NuGet.Config",
