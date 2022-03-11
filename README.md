@@ -1,6 +1,6 @@
 # ETrade Project
 
-Repository E-Ticaret sitesinin Backend'i olarak tasarlanmıştır.
+Mini bir E-Ticaret sitesinin Backend'i olarak tasarlanmıştır.
 
 # N-Katmanlı mimari
 
